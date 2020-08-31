@@ -1,6 +1,6 @@
 # Othello-Game-Python-Project
 Python Project using Pygame library.
-About the game
+#About the Game:
 Othello is a board game for two players, played on an 8 X 8 uncheckered board.
 Players use disks , which are light on one side and dark on the other.
 Players take turns placing disks on the board with their colour facing up.
